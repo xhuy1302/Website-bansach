@@ -1,0 +1,14 @@
+[SQL]
+DatabaseDriver=com.microsoft.sqlserver.jdbc.SQLServerDriver
+Workspace=sqlserver
+Hostname=DESKTOP-D49US8A\SQLEXPRESS
+Port=1433
+DatabaseName=databasejava
+Encrypt=true
+TrustServerCertificate=true
+DatabaseMinConnection=2
+DatabaseMaxConnection=4
+
+[Account]
+Username=sa
+Password=123456789
